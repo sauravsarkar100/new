@@ -1,0 +1,38 @@
+#fast-pat{
+    height: 230px;
+}
+.col-md-4{
+  margin-top: -22px;
+}
+.box{
+    width: 247px;
+    height: 249px;
+    background: lightgray;
+    margin: auto;
+    text-align: center;
+    border:  4px solid rgb(230, 223, 223);
+}
+button{
+    border: 1px solid #fff;
+}
+.box2{  
+  margin-left: 114px;
+}
+.box-font{
+    margin-top: 90px;
+}
+.col-md-6 img{
+    width: 74px;
+}
+#last-pat{
+    width: 100%;
+    height: 184px;
+}
+#last-pat2{
+    height: 10px;
+}
+footer{
+    background: gray;
+    width: 100%;
+    height: 90px;
+}
